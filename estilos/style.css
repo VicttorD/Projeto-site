@@ -4,15 +4,13 @@
 }
 
 body{
-background-color: aquamarine;
-
-
+    background-color: rgb(117, 99, 224);
 }
 
 main{
     background-color: snow;
-width: 500px;
-margin:auto;
-padding: 10px;
-box-shadow: 3px 3px 5px blac ;
+    width: 500px;
+    margin:auto;
+    padding: 10px;
+    box-shadow: 3px 3px 5px blac ;
 }
