@@ -1,2 +1,4 @@
 # Projeto-site
- Projeto de um site criado durante um curso de git e github do curso em video.
+
+![](./image/preview.png)
+ ## Projeto de um site criado durante um curso de git e github do curso em video.
